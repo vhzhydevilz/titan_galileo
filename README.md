@@ -3,7 +3,7 @@ titan galileo TNT4 auto install linux
 
 Run Titan Agent on Linux
 
-clone git
+clone
 git clone https://github.com/vhzhydevilz/titan_galileo.git
 
 call directory 
