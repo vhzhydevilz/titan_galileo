@@ -2,20 +2,20 @@
 
 titan galileo TNT4 auto install linux
 
-Run Titan Agent on Linux
+# Run Titan Agent on Linux
 
-clone
+# clone
 
 git clone https://github.com/vhzhydevilz/titan_galileo.git
 
-call directory 
+# call directory 
 
 cd titan_galileo
 
-permision
+# permision
 
 chmod +x galileo.sh
 
-run
+# run
 
 ./galileo.sh
