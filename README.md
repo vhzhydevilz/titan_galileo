@@ -4,6 +4,10 @@ titan galileo TNT4 auto install linux
 
 # Run Titan Agent on Linux
 
+# create screen 
+
+screen -S titan_galileo
+
 # clone
 
 git clone https://github.com/vhzhydevilz/titan_galileo.git
